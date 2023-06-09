@@ -1,6 +1,6 @@
 const storage = {};
- const inputs = document.querySelectorAll(".input"),
-        textArea = document.getElementById("textarea";
+const inputs = document.querySelectorAll(".input"),
+      textArea = document.getElementById("textarea";
                                            
 const reWriteTextarea = function () {
     inputs.forEach((input) => {
